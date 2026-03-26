@@ -28,7 +28,7 @@
         let signer;
         let contract;
 
-        const contractAddress = "0x493aB4809Dfaa45EEC81E90716251FC779dD3958";  // Replace this after deployment
+        const contractAddress = "0x6BD48D4409f682b09baAb7F846db115740A90490";  // Replace this after deployment
         const abi = [
             { "inputs": [{ "internalType": "string", "name": "newOutput", "type": "string" }], "name": "Set_Word", "outputs": [], "stateMutability": "nonpayable", "type": "function" },
             { "inputs": [{ "internalType": "int256", "name": "newNumber", "type": "int256" }], "name": "Set_Number", "outputs": [], "stateMutability": "nonpayable", "type": "function" },
